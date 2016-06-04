@@ -1,0 +1,2 @@
+model_checkpoint_path: "conv-net-06-10000"
+all_model_checkpoint_paths: "conv-net-06-10000"
